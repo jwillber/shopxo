@@ -22,11 +22,6 @@
 * 安装教程：https://ask.shopxo.net/article/5
 * 更新日志：https://ask.shopxo.net/article/148
 
-### 官方QQ群（答案：shopxo.net）
-* 官方1群：833531593
-* 官方2群：641730223
-* 官方3群：1127073697
-
 ### 源代码平台
 * 码云：https://gitee.com/zongzhige/shopxo
 * Github：https://github.com/gongfuxiang/shopxo
@@ -174,9 +169,8 @@ v1.2版本不再支持支付宝生活号管理（需要使用此功能的小伙�
 - [码云/开源中国 - 发布issue进行问题反馈和建议](https://gitee.com/zongzhige/shopxo/pulls)
 - 通过Pull Request提交修复
 - 完善我们的文档和例子
-
 # 开源协议
 MIT see https://ask.shopxo.net/article/15
-
 # 更新日志
 更多细节参阅 <a href="https://ask.shopxo.net/article/148">https://ask.shopxo.net/article/148</a>
+注：使用https://www.xp.cn/ 安装phpstudy 软件 里面继承了 运行环境插件  或者使用百度分享继承好的phpstudy安装软件 解压即可使用()
