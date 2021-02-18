@@ -21,12 +21,7 @@
 * 演示地址：https://ask.shopxo.net/article/4
 * 安装教程：https://ask.shopxo.net/article/5
 * 更新日志：https://ask.shopxo.net/article/148
-
-### 源代码平台
-* 码云：https://gitee.com/zongzhige/shopxo
-* Github：https://github.com/gongfuxiang/shopxo
-* Coding：https://zongzhige.coding.net/public/shopxo/shopxo/git
-
+* 
 ### 部分功能特点
 ~~~
 1. 多种模式（销售+自提+虚拟+展示+销售/自提）多仓库管理、多端小程序
@@ -57,9 +52,6 @@
 
 # 后台管理图片展示
 ![后台管理](https://images.gitee.com/uploads/images/2020/0203/000749_4a8b1c43_488475.gif "admin.gif")
-
-# 获得荣誉
-![GVP 证书](https://images.gitee.com/uploads/images/2020/0213/002000_06d4df98_488475.jpeg "GVP高清图片.jpeg")
 
 # 商城基础功能简介
 ### 后端功能列表
@@ -161,14 +153,6 @@ v1.2版本不再支持支付宝生活号管理（需要使用此功能的小伙�
     > 问答留言
 安全退出
 ```
-
-# 如何贡献
-非常欢迎您对ShopXO的开发作出贡献！
-你可以选择以下方式向ShopXO贡献：
-- [Github - 发布issue进行问题反馈和建议](https://github.com/gongfuxiang/shopxo/pulls)
-- [码云/开源中国 - 发布issue进行问题反馈和建议](https://gitee.com/zongzhige/shopxo/pulls)
-- 通过Pull Request提交修复
-- 完善我们的文档和例子
 
 # 开源协议
 MIT see https://ask.shopxo.net/article/15
